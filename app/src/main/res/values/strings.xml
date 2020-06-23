@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Code OHM</string>
+
+    <string-array name="lista_color1">
+        <item>Selecciona el color 1</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="lista_color2">
+        <item>Selecciona el color 2</item>
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="lista_color3">
+        <item>Selecciona el color 3</item>
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+        <item>Dorado</item>
+        <item>Plata</item>
+    </string-array>
+
+    <string-array name="lista_color4">
+        <item>Selecciona el color 4</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Dorado</item>
+        <item>Plata</item>
+    </string-array>
+</resources>
